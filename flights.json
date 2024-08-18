@@ -1,0 +1,1130 @@
+{
+    "flights": [
+      {
+        "flightNumber": "LY001",
+        "airline": "El Al",
+        "departure": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-20T14:30:00"
+        },
+        "arrival": {
+          "city": "New York",
+          "country": "USA",
+          "airport": "JFK",
+          "IATA": "JFK",
+          "time": "2024-08-20T19:00:00"
+        },
+        "duration": "11:30",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Boeing 787",
+          "registration": "4X-EDC",
+          "seatConfig": {
+            "firstClass": 8,
+            "businessClass": 28,
+            "economyClass": 235
+          }
+        },
+        "price": {
+          "currency": "USD",
+          "economy": 850,
+          "business": 3200,
+          "firstClass": 7200
+        },
+        "baggageAllowance": {
+          "carryOn": "8kg",
+          "checked": "23kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": true
+        }
+      },
+      {
+        "flightNumber": "BA162",
+        "airline": "British Airways",
+        "departure": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-20T06:00:00"
+        },
+        "arrival": {
+          "city": "London",
+          "country": "UK",
+          "airport": "Heathrow",
+          "IATA": "LHR",
+          "time": "2024-08-20T09:15:00"
+        },
+        "duration": "05:15",
+        "status": "Delayed",
+        "aircraft": {
+          "model": "Airbus A320",
+          "registration": "G-EUYG",
+          "seatConfig": {
+            "firstClass": 0,
+            "businessClass": 20,
+            "economyClass": 150
+          }
+        },
+        "price": {
+          "currency": "GBP",
+          "economy": 150,
+          "business": 700,
+          "firstClass": null
+        },
+        "baggageAllowance": {
+          "carryOn": "7kg",
+          "checked": "23kg"
+        },
+        "amenities": {
+          "wifi": false,
+          "inflightEntertainment": false,
+          "meals": true,
+          "powerOutlet": false
+        }
+      },
+      {
+        "flightNumber": "AF1120",
+        "airline": "Air France",
+        "departure": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-20T10:45:00"
+        },
+        "arrival": {
+          "city": "Paris",
+          "country": "France",
+          "airport": "Charles de Gaulle",
+          "IATA": "CDG",
+          "time": "2024-08-20T14:15:00"
+        },
+        "duration": "04:30",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Boeing 777",
+          "registration": "F-GSPK",
+          "seatConfig": {
+            "firstClass": 4,
+            "businessClass": 40,
+            "economyClass": 216
+          }
+        },
+        "price": {
+          "currency": "EUR",
+          "economy": 400,
+          "business": 1800,
+          "firstClass": 5000
+        },
+        "baggageAllowance": {
+          "carryOn": "8kg",
+          "checked": "30kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": true
+        }
+      },
+      {
+        "flightNumber": "LH691",
+        "airline": "Lufthansa",
+        "departure": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-20T05:00:00"
+        },
+        "arrival": {
+          "city": "Frankfurt",
+          "country": "Germany",
+          "airport": "Frankfurt Airport",
+          "IATA": "FRA",
+          "time": "2024-08-20T08:30:00"
+        },
+        "duration": "04:30",
+        "status": "Cancelled",
+        "aircraft": {
+          "model": "Airbus A321",
+          "registration": "D-AISF",
+          "seatConfig": {
+            "firstClass": 0,
+            "businessClass": 24,
+            "economyClass": 168
+          }
+        },
+        "price": {
+          "currency": "EUR",
+          "economy": 300,
+          "business": 1200,
+          "firstClass": null
+        },
+        "baggageAllowance": {
+          "carryOn": "8kg",
+          "checked": "23kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": false
+        }
+      },
+      {
+        "flightNumber": "DL233",
+        "airline": "Delta Airlines",
+        "departure": {
+          "city": "New York",
+          "country": "USA",
+          "airport": "JFK",
+          "IATA": "JFK",
+          "time": "2024-08-20T23:00:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-21T16:00:00"
+        },
+        "duration": "10:00",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Boeing 777",
+          "registration": "N703DN",
+          "seatConfig": {
+            "firstClass": 16,
+            "businessClass": 48,
+            "economyClass": 270
+          }
+        },
+        "price": {
+          "currency": "USD",
+          "economy": 1000,
+          "business": 4000,
+          "firstClass": 8500
+        },
+        "baggageAllowance": {
+          "carryOn": "10kg",
+          "checked": "23kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": true
+        }
+      },
+      {
+        "flightNumber": "LH692",
+        "airline": "Lufthansa",
+        "departure": {
+          "city": "Frankfurt",
+          "country": "Germany",
+          "airport": "Frankfurt Airport",
+          "IATA": "FRA",
+          "time": "2024-08-20T14:30:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-20T19:30:00"
+        },
+        "duration": "04:00",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Airbus A321",
+          "registration": "D-AIRY",
+          "seatConfig": {
+            "firstClass": 0,
+            "businessClass": 24,
+            "economyClass": 168
+          }
+        },
+        "price": {
+          "currency": "EUR",
+          "economy": 400,
+          "business": 1800,
+          "firstClass": null
+        },
+        "baggageAllowance": {
+          "carryOn": "8kg",
+          "checked": "23kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": false
+        }
+      },
+      {
+        "flightNumber": "BA163",
+        "airline": "British Airways",
+        "departure": {
+          "city": "London",
+          "country": "UK",
+          "airport": "Heathrow",
+          "IATA": "LHR",
+          "time": "2024-08-20T22:00:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-21T03:15:00"
+        },
+        "duration": "05:15",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Airbus A320",
+          "registration": "G-EUOH",
+          "seatConfig": {
+            "firstClass": 0,
+            "businessClass": 20,
+            "economyClass": 150
+          }
+        },
+        "price": {
+          "currency": "GBP",
+          "economy": 200,
+          "business": 800,
+          "firstClass": null
+        },
+        "baggageAllowance": {
+          "carryOn": "7kg",
+          "checked": "23kg"
+        },
+        "amenities": {
+          "wifi": false,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": false
+        }
+      },
+      {
+        "flightNumber": "AF1121",
+        "airline": "Air France",
+        "departure": {
+          "city": "Paris",
+          "country": "France",
+          "airport": "Charles de Gaulle",
+          "IATA": "CDG",
+          "time": "2024-08-20T16:30:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-20T21:00:00"
+        },
+        "duration": "04:30",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Boeing 777",
+          "registration": "F-GSPD",
+          "seatConfig": {
+            "firstClass": 4,
+            "businessClass": 40,
+            "economyClass": 216
+          }
+        },
+        "price": {
+          "currency": "EUR",
+          "economy": 450,
+          "business": 2000,
+          "firstClass": 5500
+        },
+        "baggageAllowance": {
+          "carryOn": "8kg",
+          "checked": "30kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": true
+        }
+      },
+      {
+        "flightNumber": "EK210",
+        "airline": "Emirates",
+        "departure": {
+          "city": "Dubai",
+          "country": "UAE",
+          "airport": "Dubai International Airport",
+          "IATA": "DXB",
+          "time": "2024-08-20T14:00:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-20T16:00:00"
+        },
+        "duration": "04:00",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Boeing 777",
+          "registration": "A6-EPC",
+          "seatConfig": {
+            "firstClass": 8,
+            "businessClass": 42,
+            "economyClass": 304
+          }
+        },
+        "price": {
+          "currency": "USD",
+          "economy": 500,
+          "business": 2000,
+          "firstClass": 7000
+        },
+        "baggageAllowance": {
+          "carryOn": "7kg",
+          "checked": "30kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": true
+        }
+      },
+      {
+        "flightNumber": "QR403",
+        "airline": "Qatar Airways",
+        "departure": {
+          "city": "Doha",
+          "country": "Qatar",
+          "airport": "Hamad International Airport",
+          "IATA": "DOH",
+          "time": "2024-08-20T10:00:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-20T12:00:00"
+        },
+        "duration": "04:00",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Airbus A350",
+          "registration": "A7-ALY",
+          "seatConfig": {
+            "firstClass": 0,
+            "businessClass": 36,
+            "economyClass": 247
+          }
+        },
+        "price": {
+          "currency": "USD",
+          "economy": 400,
+          "business": 1800,
+          "firstClass": null
+        },
+        "baggageAllowance": {
+          "carryOn": "8kg",
+          "checked": "30kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": true
+        }
+      },
+      {
+        "flightNumber": "LH690",
+        "airline": "Lufthansa",
+        "departure": {
+          "city": "Munich",
+          "country": "Germany",
+          "airport": "Munich Airport",
+          "IATA": "MUC",
+          "time": "2024-08-21T08:00:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-21T12:45:00"
+        },
+        "duration": "04:45",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Airbus A321",
+          "registration": "D-AIRX",
+          "seatConfig": {
+            "firstClass": 0,
+            "businessClass": 24,
+            "economyClass": 168
+          }
+        },
+        "price": {
+          "currency": "EUR",
+          "economy": 350,
+          "business": 1500,
+          "firstClass": null
+        },
+        "baggageAllowance": {
+          "carryOn": "8kg",
+          "checked": "23kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": false
+        }
+      },
+      {
+        "flightNumber": "UA84",
+        "airline": "United Airlines",
+        "departure": {
+          "city": "Newark",
+          "country": "USA",
+          "airport": "Newark Liberty International Airport",
+          "IATA": "EWR",
+          "time": "2024-08-21T22:00:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-22T15:30:00"
+        },
+        "duration": "10:30",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Boeing 787",
+          "registration": "N26910",
+          "seatConfig": {
+            "firstClass": 16,
+            "businessClass": 48,
+            "economyClass": 214
+          }
+        },
+        "price": {
+          "currency": "USD",
+          "economy": 1200,
+          "business": 4500,
+          "firstClass": 9000
+        },
+        "baggageAllowance": {
+          "carryOn": "10kg",
+          "checked": "23kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": true
+        }
+      },
+      {
+        "flightNumber": "AC81",
+        "airline": "Air Canada",
+        "departure": {
+          "city": "Toronto",
+          "country": "Canada",
+          "airport": "Toronto Pearson International Airport",
+          "IATA": "YYZ",
+          "time": "2024-08-21T17:35:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-22T10:00:00"
+        },
+        "duration": "09:25",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Boeing 787",
+          "registration": "C-GHPQ",
+          "seatConfig": {
+            "firstClass": 12,
+            "businessClass": 35,
+            "economyClass": 240
+          }
+        },
+        "price": {
+          "currency": "CAD",
+          "economy": 950,
+          "business": 3800,
+          "firstClass": 7500
+        },
+        "baggageAllowance": {
+          "carryOn": "10kg",
+          "checked": "23kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": true
+        }
+      },
+      {
+        "flightNumber": "AZ806",
+        "airline": "Alitalia",
+        "departure": {
+          "city": "Rome",
+          "country": "Italy",
+          "airport": "Leonardo da Vinci International Airport",
+          "IATA": "FCO",
+          "time": "2024-08-21T15:00:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-21T19:00:00"
+        },
+        "duration": "04:00",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Airbus A320",
+          "registration": "EI-DTK",
+          "seatConfig": {
+            "firstClass": 0,
+            "businessClass": 20,
+            "economyClass": 150
+          }
+        },
+        "price": {
+          "currency": "EUR",
+          "economy": 300,
+          "business": 1200,
+          "firstClass": null
+        },
+        "baggageAllowance": {
+          "carryOn": "8kg",
+          "checked": "23kg"
+        },
+        "amenities": {
+          "wifi": false,
+          "inflightEntertainment": false,
+          "meals": true,
+          "powerOutlet": false
+        }
+      },
+      {
+        "flightNumber": "IB7840",
+        "airline": "Iberia",
+        "departure": {
+          "city": "Madrid",
+          "country": "Spain",
+          "airport": "Adolfo Suárez Madrid–Barajas Airport",
+          "IATA": "MAD",
+          "time": "2024-08-21T11:00:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-21T16:00:00"
+        },
+        "duration": "05:00",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Airbus A320",
+          "registration": "EC-IZR",
+          "seatConfig": {
+            "firstClass": 0,
+            "businessClass": 20,
+            "economyClass": 150
+          }
+        },
+        "price": {
+          "currency": "EUR",
+          "economy": 280,
+          "business": 1000,
+          "firstClass": null
+        },
+        "baggageAllowance": {
+          "carryOn": "7kg",
+          "checked": "23kg"
+        },
+        "amenities": {
+          "wifi": false,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": false
+        }
+      },
+      {
+        "flightNumber": "AF1448",
+        "airline": "Air France",
+        "departure": {
+          "city": "Paris",
+          "country": "France",
+          "airport": "Charles de Gaulle",
+          "IATA": "CDG",
+          "time": "2024-08-21T20:00:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-22T01:00:00"
+        },
+        "duration": "04:00",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Boeing 777",
+          "registration": "F-GSPB",
+          "seatConfig": {
+            "firstClass": 4,
+            "businessClass": 40,
+            "economyClass": 216
+          }
+        },
+        "price": {
+          "currency": "EUR",
+          "economy": 420,
+          "business": 1900,
+          "firstClass": 5300
+        },
+        "baggageAllowance": {
+          "carryOn": "8kg",
+          "checked": "30kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": true
+        }
+      },
+      {
+        "flightNumber": "OS858",
+        "airline": "Austrian Airlines",
+        "departure": {
+          "city": "Vienna",
+          "country": "Austria",
+          "airport": "Vienna International Airport",
+          "IATA": "VIE",
+          "time": "2024-08-21T14:10:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-21T18:25:00"
+        },
+        "duration": "04:15",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Airbus A321",
+          "registration": "OE-LBD",
+          "seatConfig": {
+            "firstClass": 0,
+            "businessClass": 28,
+            "economyClass": 200
+          }
+        },
+        "price": {
+          "currency": "EUR",
+          "economy": 370,
+          "business": 1500,
+          "firstClass": null
+        },
+        "baggageAllowance": {
+          "carryOn": "8kg",
+          "checked": "23kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": false
+        }
+      },
+      {
+        "flightNumber": "TK786",
+        "airline": "Turkish Airlines",
+        "departure": {
+          "city": "Istanbul",
+          "country": "Turkey",
+          "airport": "Istanbul Airport",
+          "IATA": "IST",
+          "time": "2024-08-21T09:50:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-21T11:45:00"
+        },
+        "duration": "01:55",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Boeing 737",
+          "registration": "TC-JFM",
+          "seatConfig": {
+            "firstClass": 0,
+            "businessClass": 20,
+            "economyClass": 160
+          }
+        },
+        "price": {
+          "currency": "USD",
+          "economy": 250,
+          "business": 950,
+          "firstClass": null
+        },
+        "baggageAllowance": {
+          "carryOn": "8kg",
+          "checked": "23kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": false
+        }
+      },
+      {
+        "flightNumber": "SU505",
+        "airline": "Aeroflot",
+        "departure": {
+          "city": "Moscow",
+          "country": "Russia",
+          "airport": "Sheremetyevo International Airport",
+          "IATA": "SVO",
+          "time": "2024-08-21T13:55:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-21T17:45:00"
+        },
+        "duration": "03:50",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Airbus A330",
+          "registration": "VQ-BEL",
+          "seatConfig": {
+            "firstClass": 0,
+            "businessClass": 28,
+            "economyClass": 244
+          }
+        },
+        "price": {
+          "currency": "RUB",
+          "economy": 15000,
+          "business": 55000,
+          "firstClass": null
+        },
+        "baggageAllowance": {
+          "carryOn": "8kg",
+          "checked": "23kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": true
+        }
+      },
+      {
+        "flightNumber": "LY002",
+        "airline": "El Al",
+        "departure": {
+          "city": "New York",
+          "country": "USA",
+          "airport": "JFK",
+          "IATA": "JFK",
+          "time": "2024-08-22T00:30:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-22T17:00:00"
+        },
+        "duration": "10:30",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Boeing 787",
+          "registration": "4X-EDF",
+          "seatConfig": {
+            "firstClass": 8,
+            "businessClass": 28,
+            "economyClass": 235
+          }
+        },
+        "price": {
+          "currency": "USD",
+          "economy": 900,
+          "business": 3500,
+          "firstClass": 7500
+        },
+        "baggageAllowance": {
+          "carryOn": "8kg",
+          "checked": "23kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": true
+        }
+      },
+      {
+        "flightNumber": "AA146",
+        "airline": "American Airlines",
+        "departure": {
+          "city": "Dallas",
+          "country": "USA",
+          "airport": "Dallas/Fort Worth International Airport",
+          "IATA": "DFW",
+          "time": "2024-08-22T19:45:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-23T13:35:00"
+        },
+        "duration": "11:50",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Boeing 787",
+          "registration": "N804AN",
+          "seatConfig": {
+            "firstClass": 16,
+            "businessClass": 48,
+            "economyClass": 200
+          }
+        },
+        "price": {
+          "currency": "USD",
+          "economy": 1100,
+          "business": 4300,
+          "firstClass": 8900
+        },
+        "baggageAllowance": {
+          "carryOn": "10kg",
+          "checked": "23kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": true
+        }
+      },
+      {
+        "flightNumber": "JL52",
+        "airline": "Japan Airlines",
+        "departure": {
+          "city": "Tokyo",
+          "country": "Japan",
+          "airport": "Narita International Airport",
+          "IATA": "NRT",
+          "time": "2024-08-22T14:30:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-22T23:45:00"
+        },
+        "duration": "11:15",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Boeing 787",
+          "registration": "JA839J",
+          "seatConfig": {
+            "firstClass": 8,
+            "businessClass": 28,
+            "economyClass": 200
+          }
+        },
+        "price": {
+          "currency": "JPY",
+          "economy": 120000,
+          "business": 450000,
+          "firstClass": 900000
+        },
+        "baggageAllowance": {
+          "carryOn": "10kg",
+          "checked": "23kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": true
+        }
+      },
+      {
+        "flightNumber": "EK212",
+        "airline": "Emirates",
+        "departure": {
+          "city": "Dubai",
+          "country": "UAE",
+          "airport": "Dubai International Airport",
+          "IATA": "DXB",
+          "time": "2024-08-22T23:30:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-23T01:30:00"
+        },
+        "duration": "02:00",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Boeing 777",
+          "registration": "A6-EPC",
+          "seatConfig": {
+            "firstClass": 8,
+            "businessClass": 42,
+            "economyClass": 304
+          }
+        },
+        "price": {
+          "currency": "USD",
+          "economy": 500,
+          "business": 2000,
+          "firstClass": 7000
+        },
+        "baggageAllowance": {
+          "carryOn": "7kg",
+          "checked": "30kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": true
+        }
+      },
+      {
+        "flightNumber": "VA10",
+        "airline": "Virgin Australia",
+        "departure": {
+          "city": "Sydney",
+          "country": "Australia",
+          "airport": "Sydney Kingsford Smith Airport",
+          "IATA": "SYD",
+          "time": "2024-08-23T09:30:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-23T20:45:00"
+        },
+        "duration": "15:15",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Boeing 777",
+          "registration": "VH-VPE",
+          "seatConfig": {
+            "firstClass": 14,
+            "businessClass": 60,
+            "economyClass": 200
+          }
+        },
+        "price": {
+          "currency": "AUD",
+          "economy": 1400,
+          "business": 5600,
+          "firstClass": 14000
+        },
+        "baggageAllowance": {
+          "carryOn": "10kg",
+          "checked": "30kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": true
+        }
+      },
+      {
+        "flightNumber": "CZ346",
+        "airline": "China Southern Airlines",
+        "departure": {
+          "city": "Guangzhou",
+          "country": "China",
+          "airport": "Guangzhou Baiyun International Airport",
+          "IATA": "CAN",
+          "time": "2024-08-23T18:00:00"
+        },
+        "arrival": {
+          "city": "Tel Aviv",
+          "country": "Israel",
+          "airport": "Ben Gurion",
+          "IATA": "TLV",
+          "time": "2024-08-23T23:00:00"
+        },
+        "duration": "09:00",
+        "status": "On Time",
+        "aircraft": {
+          "model": "Boeing 787",
+          "registration": "B-2739",
+          "seatConfig": {
+            "firstClass": 8,
+            "businessClass": 32,
+            "economyClass": 200
+          }
+        },
+        "price": {
+          "currency": "CNY",
+          "economy": 7000,
+          "business": 27000,
+          "firstClass": 70000
+        },
+        "baggageAllowance": {
+          "carryOn": "8kg",
+          "checked": "23kg"
+        },
+        "amenities": {
+          "wifi": true,
+          "inflightEntertainment": true,
+          "meals": true,
+          "powerOutlet": true
+        }
+      }
+    ]
+  }
+  
